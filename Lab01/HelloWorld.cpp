@@ -1,5 +1,6 @@
-/***In today's lab, I will print Hello World twice using the different techniques ****/
-
+/***In today's lab, 
+I will print Hello World twice using the different techniques ****/
+//ECE 2310, Lab #1, Fall semester
 #include <iostream>
 
 using namespace std;
