@@ -1,3 +1,5 @@
+/***In today's lab, I will print Hello World twice using the different techniques ****/
+
 #include <iostream>
 
 using namespace std;
